@@ -1,5 +1,4 @@
-connection: "looker_partner_demo"
-label: " eCommerce_second"
+connection: "looker_private_demo"
 include: "/queries/queries*.view" # includes all queries refinements
 include: "/views/**/*.view" # include all the views
 include: "/dashboards/*.dashboard.lookml" # include all the views
