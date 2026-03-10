@@ -86,6 +86,12 @@ explore: order_items {
   # }
 }
 
+###TEST EXPLORE
+
+explore: new_products {}
+
+explore: derived {}
+
 
 
 
